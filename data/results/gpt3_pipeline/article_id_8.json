@@ -1,0 +1,17 @@
+{
+    "article_id": 8,
+    "url": "https://www.bbc.com/news/business-64960985",
+    "title": "Samsung to invest in South Korea mega chip-making plan",
+    "text": "\"It wants to emulate to some degree Taiwan's clustering effect, where the trifecta of science parks... form a massive cluster that has attracted numerous other companies, both upstream and downstream in the supply chain,\" he said.",
+    "relationships": [
+        {
+            "entity_1": "Samsung",
+            "relationship": "investor in",
+            "entity_2": "Taiwan",
+            "passage": "\"It wants to emulate to some degree Taiwan's clustering effect, where the trifecta of science parks... form a massive cluster that has attracted numerous other companies, both upstream and downstream in the supply chain\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}

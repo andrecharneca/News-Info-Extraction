@@ -1,0 +1,35 @@
+{
+    "article_id": 4,
+    "url": "https://edition.cnn.com/2023/02/22/tech/ftc-amazon-one-medical-deal",
+    "title": "Amazon closes its acquisition of One Medical, but scrutiny of the deal is not over",
+    "text": "Washington, DC CNN \u2014\nAmazon closed its acquisition of health care provider One Medical and its parent in a $3.9 billion deal on Wednesday, hours after the Federal Trade Commission said it would not challenge the purchase but that regulators were still investigating potential competitive and consumer harms of the transaction.\nThe landmark deal will turn the e-commerce giant into a provider of primary medical care with access to more than 200 brick-and-mortar doctors\u2019 offices, along with roughly 815,000 One Medical members, according to that company\u2019s latest financial statement.\nThe One Medical deal would also allow Amazon to expand its telehealth services and acquire valuable relationships with hospital systems, industry analysts have said.\nOn Wednesday, Amazon said One Medical will offer new customers a $55 discount on annual memberships for a limited time.\n\u201cWe\u2019re on a mission to make it dramatically easier for people to find, choose, afford, and engage with the services, products, and professionals they need to get and stay healthy, and coming together with One Medical is a big step on that journey,\u201d said Neil Lindsay, senior vice president of Amazon Health Services, in a release. \u201cOne Medical has set the bar for what a quality, convenient, and affordable primary care experience should be like. We\u2019re inspired by their human-centered, technology-forward approach and excited to help them continue to grow and serve more patients.\u201d\nBut while Amazon can consummate the deal without the immediate threat of an FTC antitrust suit, the agency is still investigating the acquisition and can still challenge the deal after the fact.\n\u201cThe FTC\u2019s investigation of Amazon\u2019s acquisition of One Medical continues,\u201d said FTC spokesman Douglas Farrar. \u201cThe commission will continue to look at possible harms to competition created by this merger, as well as possible harms to consumers that may result from Amazon\u2019s control and use of sensitive consumer health information held by One Medical.\u201d\nThe FTC plans to warn Amazon it may close the deal at its own risk, an agency official said. Known as a \u201cpre-consummation warning,\u201d the FTC began sending such letters to merging companies in 2021 in response to a surge in proposed deals that threatened to overwhelm regulators\u2019 investigative capacity.\nThe warning highlights the continued legal risk for Amazon and the potential concerns driving the FTC probe. Worries include not only the potential for Amazon to entrench its economic dominance but also fears that its acquisition of valuable health data could lead to the misuse of that information for other purposes, such as targeted advertising or e-commerce, the agency official said.\nAmazon\u2019s deal to acquire One Medical follows its 2018 purchase of the online pharmacy service PillPack, which later became Amazon Pharmacy. Separately, Amazon partnered with JPMorgan Chase and Berkshire Hathaway on an effort to provide better health care services and insurance at a lower cost to workers and families at the three companies, and possibly other businesses, too. That effort, called Haven, shut down in 2021.",
+    "relationships": [
+        {
+            "entity_1": "Amazon",
+            "relationship": "owner of",
+            "entity_2": "One Medical",
+            "passage": "\"Amazon closed its acquisition of health care provider One Medical and its parent in a $3.9 billion deal\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Amazon",
+            "relationship": "partner of",
+            "entity_2": "JPMorgan Chase",
+            "passage": "\"Amazon partnered with JPMorgan Chase and Berkshire Hathaway on an effort to provide better health care services and insurance\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Amazon",
+            "relationship": "partner of",
+            "entity_2": "Berkshire Hathaway",
+            "passage": "\"Amazon partnered with JPMorgan Chase and Berkshire Hathaway on an effort to provide better health care services and insurance\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}

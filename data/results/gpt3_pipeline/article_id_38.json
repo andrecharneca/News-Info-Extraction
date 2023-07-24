@@ -1,0 +1,35 @@
+{
+    "article_id": 38,
+    "url": "https://www.eenewseurope.com/en/csem-opens-swiss-battery-innovation-hub/",
+    "title": "CSEM opens Swiss Battery Innovation Hub",
+    "text": "CSEM opens Swiss Battery Innovation Hub Business news | February 16, 2023 By Nick Flaherty\nSwiss research group CSEM has opened a Battery Innovation Hub (BIH) in Neuch\u00e2tel to boost technology development and the local supply chain.\nThe centre will bring together interdisciplinary teams to work on battery technology with local companies and is the only centre of its kind in the country. It will work on development of new chemistries and interfaces with the analysis and intelligent control of batteries to cover the entire value chain under one roof.\nAccording to a joint study by the European Patent Office and the International Energy Agency, by 2040 the world will need energy storage solutions equivalent to 50 times the current market capacity\nThis is driving the development of higher capacity batteries for European industry, particularly the automotive sector, and a focus on the supply chain.\n\u201cEurope must no longer remain in this state of dependency. In Switzerland, we also have the skills to be at the forefront of battery development and innovation,\u201d said Andreas Hutter, Group Leader Energy Systems at CSEM.\nThe centre will bring together over 50 researchers working on chemistry, physics, and engineering in the 400m2 centre by 2026.\n\u201cThis transfer of knowledge and technology can enable local companies to open up alternative paths and use their expertise in the promising new battery environment,\u201d says Hutter. He points to Swiss company B\u00fchler which now also supplies the battery industry, Kyburz, the supplier of electric scooters used by the Swiss Post Office, and Libattion, a start-up that gives a second life to batteries. The company uses procedures established by CSEM teams to qualify batteries from electric bikes for reuse in industrial machines.\nCSEM researchers are working both on direct battery improvement, for example by modifying the properties of the interfaces inside batteries, and on battery management via electronics that ensure safe operation, where a combination of non-invasive detection and local control guarantees optimal aging and longevity of the systems.\n\u201cOur challenge is to develop disruptive technologies that make batteries more powerful and durable, with improved safety and ideally lower cost to make the European industry more competitive \u201d said Andrea Ingenito, Group Leader of Coatings for Energy Devices at CSEM.\nCSEM started its energy innovation program in 2013, and working with EPFL has developed a key photovoltaic technology centre that has achieved several world records for solar cell efficiencies.\n\u201cWith our new facilities, we\u2019re expanding the existing battery landscape in Switzerland and making it more competitive,\u201d said Christophe Ballif, VP Sustainable Energy at CSEM.\nwww.csem.ch\nShare:",
+    "relationships": [
+        {
+            "entity_1": "CSEM",
+            "relationship": "developer of",
+            "entity_2": "Battery Innovation Hub",
+            "passage": "\"Swiss research group CSEM has opened a Battery Innovation Hub (BIH) in Neuch\u00e2tel to boost technology development and the local supply chain\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "European Patent Office",
+            "relationship": "partner of",
+            "entity_2": "International Energy Agency",
+            "passage": "\"According to a joint study by the European Patent Office and the International Energy Agency\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "EPFL",
+            "relationship": "partner of",
+            "entity_2": "CSEM",
+            "passage": "\"Working with EPFL has developed a key photovoltaic technology centre\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}

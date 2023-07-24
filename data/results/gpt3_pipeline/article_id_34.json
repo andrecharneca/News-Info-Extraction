@@ -1,0 +1,35 @@
+{
+    "article_id": 34,
+    "url": "https://www.cnbc.com/2022/12/09/getaround-shares-tank-after-going-public-in-spac-deal.html",
+    "title": "Getaround stock crashes after carsharing company goes public in SPAC deal",
+    "text": "Carsharing company Getaround made its public market debut Friday through a merger with blank-check company InterPrivate II Acquisition Corp. The company saw its share value drop more than 65%, reflecting the chilly environment for both SPACs and ridesharing companies.\nGetaround, which made the very first CNBC Disruptor 50 list in 2013, allows users to rent cars and trucks from each other via a digital marketplace. The company launched in 2009 and is available in more than 1,000 cities in the United States and Europe.\nThe merger had valued the company at about $1.2 billion, and Getaround said it planned to use the funds to invest in new markets and expand its products.\nSPACs, or special purpose acquisition companies, raise capital through an IPO to acquire or merge with existing companies, aiming to eventually take the companies public in a two-year time frame. Though SPACs rose in popularity in 2020 and 2021, they tend to significantly underperform in comparison to traditional IPOs.\nThe appetite for SPACs, which often back early-stage growth companies with little earnings, have diminished in the face of rising rates as well as elevated market volatility. For SPACs that did go public, they haven't fared well: the CNBC SPAC Post Deal Index has fallen over 60% in the past year.\nPublic ridesharing companies have been struggling as well. Lyft shares plummeted in November after the company reported worse-than-expected revenue and a slowing active user count, and the business announced the same month that it would be laying off 13% of its workforce.\nUber reported a third-quarter net loss of $1.2 billion in its third quarter, but the company has seen its stock price rise over the last month after beating analyst estimates and issuing strong fourth-quarter guidance. Still, Uber's stock is down more than 38% year-to-date even as the company has cited booming travel, easing lockdowns and shifts in consumer spending, and it shares remains well below their 2019 IPO price of $45.",
+    "relationships": [
+        {
+            "entity_1": "Getaround",
+            "relationship": "owner of",
+            "entity_2": "InterPrivate II Acquisition Corp",
+            "passage": "\"Carsharing company Getaround made its public market debut Friday through a merger with blank-check company InterPrivate II Acquisition Corp\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Lyft",
+            "relationship": "competitor",
+            "entity_2": "Getaround",
+            "passage": "\"Public ridesharing companies have been struggling as well. Lyft shares plummeted in November\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Uber",
+            "relationship": "competitor",
+            "entity_2": "Getaround",
+            "passage": "\"Uber reported a third-quarter net loss of $1.2 billion in its third quarter\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}

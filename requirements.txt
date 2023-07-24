@@ -1,0 +1,11 @@
+cleanco==2.2
+GPUtil==1.4.0
+newspaper3k==0.2.8
+numpy==1.23.5
+openai==0.27.0
+pandas==1.5.3
+parse==1.19.1
+pyvis==0.3.2
+torch==1.13.1
+tqdm==4.64.1
+transformers==4.26.0

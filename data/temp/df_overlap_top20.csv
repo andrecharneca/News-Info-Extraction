@@ -1,0 +1,66 @@
+url,entity_1,entity_2,relationship,score
+https://apnews.com/article/amazon-layoffs-jobs-cuts-jassy-0e857f39702de134c8f677c5b5731688,amazon,twitch,owner of,0.9998831748962402
+https://apnews.com/article/amazon-layoffs-jobs-cuts-jassy-0e857f39702de134c8f677c5b5731688,alphabet,google,owner of,0.999392032623291
+https://apnews.com/article/amazon-layoffs-jobs-cuts-jassy-0e857f39702de134c8f677c5b5731688,amazon,aws,developer of,0.9966755509376526
+https://apnews.com/article/amazon-layoffs-jobs-cuts-jassy-0e857f39702de134c8f677c5b5731688,meta,facebook,owner of,0.9949521422386168
+https://apnews.com/article/amazon-layoffs-jobs-cuts-jassy-0e857f39702de134c8f677c5b5731688,amazon,amazon care,developer of,0.9943916201591492
+https://apnews.com/article/credit-suisse-ubs-swiss-bank-svb-7d4c2c82b6df9830c0254ef0de62e870,ubs,credit suisse,competitor,0.9992052316665648
+https://apnews.com/article/credit-suisse-ubs-swiss-bank-svb-7d4c2c82b6df9830c0254ef0de62e870,ubs,credit suisse,owner of,0.9971040487289428
+https://apnews.com/article/meta-facebook-job-cuts-f193ca0e67078c04a8433f6c74a83187,meta,facebook,owner of,2.998871326446533
+https://apnews.com/article/meta-facebook-job-cuts-f193ca0e67078c04a8433f6c74a83187,facebook,meta,rebranded as,0.9992298483848572
+https://apnews.com/article/technology-microsoft-corp-european-union-europe-business-9fb6512145324350ffe56c98968b0af8,microsoft,xbox,developer of,2.9982168078422546
+https://apnews.com/article/technology-microsoft-corp-european-union-europe-business-9fb6512145324350ffe56c98968b0af8,microsoft,nintendo,partner of,1.99697881937027
+https://apnews.com/article/technology-microsoft-corp-european-union-europe-business-9fb6512145324350ffe56c98968b0af8,microsoft,sony,competitor,0.999543070793152
+https://apnews.com/article/technology-microsoft-corp-european-union-europe-business-9fb6512145324350ffe56c98968b0af8,microsoft,google,competitor,0.999521791934967
+https://apnews.com/article/technology-microsoft-corp-european-union-europe-business-9fb6512145324350ffe56c98968b0af8,microsoft,activision blizzard,owner of,0.9982425570487976
+https://apnews.com/article/technology-mobile-phones-business-software-522a2225391a968ee1d791e32d8b91eb,microsoft,bing,developer of,5.996834814548492
+https://apnews.com/article/technology-mobile-phones-business-software-522a2225391a968ee1d791e32d8b91eb,microsoft,edge,developer of,1.999266266822815
+https://apnews.com/article/technology-mobile-phones-business-software-522a2225391a968ee1d791e32d8b91eb,microsoft,openai,partner of,0.999694287776947
+https://apnews.com/article/technology-mobile-phones-business-software-522a2225391a968ee1d791e32d8b91eb,microsoft,google,competitor,0.9995385408401488
+https://apnews.com/article/technology-mobile-phones-business-software-522a2225391a968ee1d791e32d8b91eb,openai,chatgpt,developer of,0.9993983507156372
+https://apnews.com/article/technology-mobile-phones-business-software-522a2225391a968ee1d791e32d8b91eb,microsoft,skype,developer of,0.997215211391449
+https://apnews.com/article/technology-science-baidu-inc-china-artificial-intelligence-427838070f962108cabed1e553fc3d12,openai,chatgpt,developer of,0.99936181306839
+https://apnews.com/article/technology-science-baidu-inc-china-artificial-intelligence-427838070f962108cabed1e553fc3d12,baidu,chatgpt,competitor,0.9969533681869508
+https://edition.cnn.com/2023/02/23/tech/china-apps-remove-chatgpt-ai-race-intl-hnk,openai,chatgpt,developer of,2.997224509716034
+https://edition.cnn.com/2023/02/23/tech/china-apps-remove-chatgpt-ai-race-intl-hnk,microsoft,openai,investor in,0.9996829032897948
+https://europe.autonews.com/automakers/musks-challenge-keeping-tesla-ahead-competition,geely automobile,tesla,competitor,0.9994821548461914
+https://variety.com/2023/tv/news/warner-bros-discovery-zaslav-shows-combative-streak-1235534033/,warner bros. discovery,amazon,competitor,0.9996726512908936
+https://www.businesswire.com/news/home/20230221005917/en/Alcott-Enterprises-and-Flourish-Software-Partner-to-Deliver-Leading-I.T.-Solutions-for-Cannabis-Operators,alcott enterprises,flourish software,partner of,2.998813033103943
+https://www.businesswire.com/news/home/20230221005917/en/Alcott-Enterprises-and-Flourish-Software-Partner-to-Deliver-Leading-I.T.-Solutions-for-Cannabis-Operators,alcott enterprises,kurvana,partner of,0.9961532354354858
+https://www.cnbc.com/2023/01/24/qatar-doubles-credit-suisse-stake.html,saudi national bank,credit suisse,investor in,0.9997677206993104
+https://www.cnbc.com/2023/01/24/qatar-doubles-credit-suisse-stake.html,qatar investment authority,credit suisse,investor in,0.99911630153656
+https://www.cnbc.com/2023/02/21/microsoft-will-bring-xbox-games-to-nvidias-cloud-gaming-service.html,microsoft,xbox,developer of,3.9982449412345886
+https://www.cnbc.com/2023/02/21/microsoft-will-bring-xbox-games-to-nvidias-cloud-gaming-service.html,nvidia,geforce now,developer of,2.997948408126831
+https://www.cnbc.com/2023/02/21/microsoft-will-bring-xbox-games-to-nvidias-cloud-gaming-service.html,activision blizzard,call of duty,developer of,0.9996321797370912
+https://www.cnbc.com/2023/02/23/china-tech-companies-are-closely-watching-chatgpts-ai-skills.html,openai,chatgpt,developer of,2.9988983869552612
+https://www.cnbc.com/2023/02/23/china-tech-companies-are-closely-watching-chatgpts-ai-skills.html,baidu,iqiyi,investor in,1.9994502663612366
+https://www.cnbc.com/2023/02/23/china-tech-companies-are-closely-watching-chatgpts-ai-skills.html,baidu,ernie,developer of,0.9997531175613404
+https://www.cnbc.com/2023/02/23/china-tech-companies-are-closely-watching-chatgpts-ai-skills.html,pingcap,chat2query,developer of,0.9996739625930786
+https://www.consulting.us/news/8775/bain-company-inks-partnership-with-chatgpt-developer-openai,openai,chatgpt,developer of,3.9970613718032837
+https://www.consulting.us/news/8775/bain-company-inks-partnership-with-chatgpt-developer-openai,bain & company,openai,partner of,3.9964975714683533
+https://www.consulting.us/news/8775/bain-company-inks-partnership-with-chatgpt-developer-openai,openai,dall-e,developer of,1.9915747642517092
+https://www.consulting.us/news/8775/bain-company-inks-partnership-with-chatgpt-developer-openai,openai,codex,developer of,0.9991981983184814
+https://www.eenewseurope.com/en/csem-opens-swiss-battery-innovation-hub/,csem,epfl,partner of,0.9989506006240844
+https://www.reuters.com/business/aerospace-defense/boeing-halts-deliveries-787-dreamliner-jets-faa-2023-02-23/,faa,boeing,partner of,0.9944990873336792
+https://www.reuters.com/business/aerospace-defense/boeing-halts-deliveries-787-dreamliner-jets-faa-2023-02-23/,spirit aerosystems,boeing,partner of,0.990838587284088
+https://www.reuters.com/business/aerospace-defense/saab-gets-768-mln-order-defence-equipment-2023-02-24/,saab,carl-gustaf,developer of,0.9996287822723388
+https://www.reuters.com/business/aerospace-defense/saab-gets-768-mln-order-defence-equipment-2023-02-24/,saab,rbs 70 ng,developer of,0.9995107650756836
+https://www.reuters.com/business/aerospace-defense/saab-gets-768-mln-order-defence-equipment-2023-02-24/,saab,giraffe 1x,developer of,0.9992468357086182
+https://www.reuters.com/business/autos-transportation/mercedes-plans-sell-auto-driving-assistant-drive-pilot-china-spiegel-2023-02-24/,mercedes,drive pilot,developer of,2.99167400598526
+https://www.reuters.com/business/autos-transportation/volkswagen-build-own-plant-us-scout-brand-automobilwoche-2023-02-24/,volkswagen group,audi,owner of,0.9997031092643738
+https://www.reuters.com/business/healthcare-pharmaceuticals/moderna-enters-rd-collaboration-mrna-gene-editing-therapies-2023-02-22/,moderna inc,life edit therapeutics inc,partner of,1.9977591037750244
+https://www.reuters.com/business/healthcare-pharmaceuticals/modernas-combination-skin-cancer-therapy-receives-fdas-breakthrough-tag-2023-02-22/,moderna inc,merck & co inc,partner of,0.9993783831596376
+https://www.reuters.com/business/retail-consumer/aldi-uk-recruit-6000-after-strong-christmas-trading-2023-02-16/,aldi,morrisons,competitor,2.9983036518096924
+https://www.reuters.com/business/retail-consumer/aldi-uk-recruit-6000-after-strong-christmas-trading-2023-02-16/,lidl,morrisons,competitor,1.998453140258789
+https://www.reuters.com/business/retail-consumer/aldi-uk-recruit-6000-after-strong-christmas-trading-2023-02-16/,lidl,tesco,competitor,0.9996975660324096
+https://www.reuters.com/business/retail-consumer/aldi-uk-recruit-6000-after-strong-christmas-trading-2023-02-16/,aldi,tesco,competitor,0.9996781349182128
+https://www.reuters.com/business/retail-consumer/aldi-uk-recruit-6000-after-strong-christmas-trading-2023-02-16/,lidl,asda,competitor,0.9996635317802428
+https://www.reuters.com/business/retail-consumer/aldi-uk-recruit-6000-after-strong-christmas-trading-2023-02-16/,aldi,asda,competitor,0.9996476769447328
+https://www.reuters.com/business/retail-consumer/aldi-uk-recruit-6000-after-strong-christmas-trading-2023-02-16/,lidl,sainsbury's,competitor,0.9996461868286132
+https://www.reuters.com/business/retail-consumer/aldi-uk-recruit-6000-after-strong-christmas-trading-2023-02-16/,aldi,sainsbury's,competitor,0.9996433854103088
+https://www.reuters.com/business/retail-consumer/bath-body-works-adds-second-new-director-amid-pressure-third-point-2023-02-21/,third point,bath & body works,investor in,1.9967636466026306
+https://www.reuters.com/business/retail-consumer/bath-body-works-adds-second-new-director-amid-pressure-third-point-2023-02-21/,halyard health,avanos medical,rebranded as,0.9957473278045654
+https://www.reuters.com/lifestyle/science/nasa-spacex-postpone-launch-next-space-station-crew-2023-02-27/,nasa,spacex,partner of,1.9957653284072876
+https://www.reuters.com/lifestyle/science/nasa-spacex-postpone-launch-next-space-station-crew-2023-02-27/,nasa,roscosmos,partner of,0.9994284510612488
+https://www.suasnews.com/2023/02/uavos-gradeone-group-launch-strategic-partnership/,uavos,haps apusduo,developer of,0.9997249841690063
+https://www.suasnews.com/2023/02/uavos-gradeone-group-launch-strategic-partnership/,edge,gradeone group,owner of,0.9965280890464784

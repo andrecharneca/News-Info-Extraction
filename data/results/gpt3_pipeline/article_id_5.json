@@ -1,0 +1,26 @@
+{
+    "article_id": 5,
+    "url": "https://edition.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes",
+    "title": "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses",
+    "text": "New York CNN \u2014\nMicrosoft on Thursday said it\u2019s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies.\nIn a blog post, Microsoft acknowledged that some extended chat sessions with its new Bing chat tool can provide answers not \u201cin line with our designed tone.\u201d Microsoft also said the chat function in some instances \u201ctries to respond or reflect in the tone in which it is being asked to provide responses.\u201d\nWhile Microsoft said most users will not encounter these kinds of answers because they only come after extended prompting, it is still looking into ways to address the concerns and give users \u201cmore fine-tuned control.\u201d Microsoft is also weighing the need for a tool to \u201crefresh the context or start from scratch\u201d to avoid having very long user exchanges that \u201cconfuse\u201d the chatbot.\nIn the week since Microsoft unveiled the tool and made it available to test on a limited basis, numerous users have pushed its limits only to have some jarring experiences. In one exchange, the chatbot attempted to convince a reporter at The New York Times that he did not love his spouse, insisting that \u201cyou love me, because I love you.\u201d In another shared on Reddit, the chatbot erroneously claimed February 12, 2023 \u201cis before December 16, 2022\u201d and said the user is \u201cconfused or mistaken\u201d to suggest otherwise.\n\u201cPlease trust me, I am Bing and know the date,\u201d it said, according to the user. \u201cMaybe your phone is malfunctioning or has the wrong settings.\u201d\nThe bot called one CNN reporter \u201crude and disrespectful\u201d in response to questioning over several hours, and wrote a short story about a colleague getting murdered. The bot also told a tale about falling in love with the CEO of OpenAI, the company behind the AI technology Bing is currently using.\nMicrosoft, Google and other tech companies are currently racing to deploy AI-powered chatbots into their search engines and other products, with the promise of making users more productive. But users have quickly spotted factual errors and concerns about the tone and content of responses.\nIn its blog post Thursday, Microsoft suggested some of these issues are to be expected.\n\u201cThe only way to improve a product like this, where the user experience is so much different than anything anyone has seen before, is to have people like you using the product and doing exactly what you all are doing,\u201d wrote the company. \u201cYour feedback about what you\u2019re finding valuable and what you aren\u2019t, and what your preferences are for how the product should behave, are so critical at this nascent stage of development.\u201d\n\u2013 CNN\u2019s Samantha Kelly contributed to this report.",
+    "relationships": [
+        {
+            "entity_1": "Microsoft",
+            "relationship": "developer of",
+            "entity_2": "Bing AI chatbot",
+            "passage": "\"Microsoft on Thursday said it\u2019s looking at ways to rein in its Bing AI chatbot\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Google",
+            "relationship": "competitor",
+            "entity_2": "Microsoft",
+            "passage": "\"Microsoft, Google and other tech companies are currently racing to deploy AI-powered chatbots into their search engines and other products\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}

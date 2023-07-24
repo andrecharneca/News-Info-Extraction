@@ -1,0 +1,44 @@
+{
+    "article_id": 32,
+    "url": "https://www.cnbc.com/2023/02/21/microsoft-will-bring-xbox-games-to-nvidias-cloud-gaming-service.html",
+    "title": "Nvidia supports Microsoft, Activision merger after Xbox deal to add games to cloud service",
+    "text": "BRUSSELS \u2014 Microsoft said Tuesday it will bring its Xbox PC games to Nvidia's cloud gaming service, after the chipmaker had reportedly expressed opposition to a major Microsoft gaming deal.\nThe announcement comes after Microsoft President Brad Smith met with European Union officials on Tuesday in a bid to convince them that its planned $69 billion acquisition of Activision Blizzard will be good for competition.\nMicrosoft is offering the olive branch to stop the takeover from being blocked and thereby expand its gaming unit, which represents 9% of its total revenue. While sales of Microsoft's Xbox consoles are slowing down, the company has been drawing on its cash pile to expand the collection of games it can sell and allow people to play through its cloud data centers.\nMicrosoft President Brad Smith said at a press conference that, effective immediately, its Xbox games will be available on Nvidia's GeForce Now cloud games service. Smith said if the Activision deal closes, it will bring all Activision Blizzard titles to GeForce Now.\nNvidia is now on board with Microsoft's pending deal for regulatory purposes, the two companies said in a joint statement confirming the two companies 10-year deal. In January Bloomberg reported that Nvidia had gone to the U.S. Federal Trade Commission with complaints about the Activision deal.\n\"Combining the incredibly rich catalog of Xbox first party games with GeForce Now's high-performance streaming capabilities will propel cloud gaming into a mainstream offering that appeals to gamers at all levels of interest and experience,\" Jeff Fisher, Nvidia's senior vice president for GeForce, was quoted as saying. \"Through this partnership, more of the world's most popular titles will now be available from the cloud with just a click, playable by millions more gamers.\"\nMicrosoft proposed its Activision Blizzard acquisition in January 2022, but since then, the buyer has faced pushback from regulators in the U.S., European Union and U.K.\nThe Nvidia arrangement is meaningful because \"now we're addressing the full range of issues that have been raised by regulators as topics of not just interest but in some cases concern,\" Smith said at the press conference.\nIn November, the European Commission, the EU's executive arm, opened an in-depth investigation into the deal citing concerns that it could reduce competition in the video games market.\nActivision Blizzard is the company behind popular game franchise Call of Duty. The EU commission said last year it is concerned that Microsoft could block access to the game on other platforms if the deal goes through.\nThe commission is also concerned that it could give Microsoft an unfair edge in the nascent area of cloud gaming. Microsoft has a service called Game Pass through which it charges gamers $9.99 per month to access a library of games. The Activision takeover would add some high-profile titles to Game Pass.\nNvidia's GeForce Now has over 25 million members, while Microsoft said last year that 25 million people subscribe to Game Pass. Nvidia offers free and paid GeForce Now tiers, although high resolution is only available to those who pay. Members of GeForce Now will be able to stream through the cloud the games they buy through Microsoft's app store, along with games listed in Epic Games and Steam's app stores.\nIn December, Microsoft said it had \"entered into a 10-year commitment\" to bring Call of Duty to Nintendo when the Activision acquisition closes. The announcement was seen as a move to assuage regulators' antitrust concerns. On Tuesday, Smith tweeted that the two signs have now signed a \"binding 10-year legal agreement\" to bring Call of Duty to Nintendo players on the same day as Microsoft's Xbox, \"with full feature and content parity.\"\nSmith declined to comment on the views of the European Commission in the hearing, but said the Nintendo and Nvidia deals are good for competition in the gaming market.\n\"I think if you're a competition regulator, and you're focused on the interests of consumers and competition, today was a good day,\" Smith told CNBC.",
+    "relationships": [
+        {
+            "entity_1": "Microsoft",
+            "relationship": "owner of",
+            "entity_2": "Activision Blizzard",
+            "passage": "\"Microsoft proposed its Activision Blizzard acquisition in January 2022\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Microsoft",
+            "relationship": "partner of",
+            "entity_2": "Nvidia",
+            "passage": "\"Microsoft said Tuesday it will bring its Xbox PC games to Nvidia's cloud gaming service\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Nvidia",
+            "relationship": "competitor",
+            "entity_2": "Microsoft",
+            "passage": "\"Nvidia is now on board with Microsoft's pending deal for regulatory purposes\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Nintendo",
+            "relationship": "partner of",
+            "entity_2": "Microsoft",
+            "passage": "\"In December, Microsoft said it had 'entered into a 10-year commitment' to bring Call of Duty to Nintendo when the Activision acquisition closes\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}

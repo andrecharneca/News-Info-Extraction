@@ -1,0 +1,17 @@
+{
+    "article_id": 37,
+    "url": "https://www.bbc.com/news/business-63858295",
+    "title": "DR Congo: Miner Glencore pays $180m in latest corruption case",
+    "text": "In May, the US Department of Justice said that Glencore had admitted to corruptly conspiring to pay around $27.5m to third parties to secure \"improper business advantages\" in DRC, while \"intending a portion of the payments to be used as bribes\".",
+    "relationships": [
+        {
+            "entity_1": "Glencore",
+            "relationship": "investor in",
+            "entity_2": "DRC",
+            "passage": "\"Glencore had admitted to corruptly conspiring to pay around $27.5m to third parties to secure \"improper business advantages\" in DRC\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}

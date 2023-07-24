@@ -1,0 +1,53 @@
+{
+    "article_id": 42,
+    "url": "https://variety.com/2023/tv/news/warner-bros-discovery-zaslav-shows-combative-streak-1235534033/",
+    "title": "Warner Bros. Discovery\u2019s Zaslav Shows New Combative Streak, Tweaking Media Rivals",
+    "text": "David Zaslav sounds tired of taking lumps.\nAfter months of cost cutting, write-downs, and getting pilloried among Hollywood natives for killing projects, the Warner Bros. Discovery chief showed off some new truculence, making the case that while his newly-merged company has been having a tough time, so too were others.\n\u201c\u2018Last year was a year of restructuring,\u201d said Zaslav, during a call with investors Thursday. \u201cThis year will be a year of building.\u201d\nOver the course of an hour, Zasalv and Gunnar Wiedenfels, Warner\u2019s chief financial officer, made the case that their company was just as well-equipped as any of its rivals \u2014 perhaps even more so \u2014 to withstand a stormy era during which media companies are pressed to grow their streaming operations but maintain profitability. Zaslav elbowed Netflix for releasing all of the episodes for a program\u2019s cycle all at once; suggested that a move to launch new \u201cLord of the Rings\u201d movies would take away some of the momentum that Amazon had enjoyed from its launch of a series based on the novels; and told listeners Warner Bros. Discovery could launch an ad-supported streaming service without having to buy an outside asset, as Fox Corp. and Paramount Global have done in recent year.\n\u201cWe can create a Tubi or a Pluto without having to buy anybody,\u201d he boasted.\nZaslav even name-checked Amazon CEO Andy Jassy, almost as if to tease Amazon with the threat of new \u201cLord of the Rings\u201d properties.\nWhether investors believe him remains to be seen. \u201cWarner Bros. Discovery\u2019s approach to streaming continues to raise eyebrows,\u201d said Third Bridge analyst Jamie Lumley in a Thursday research brief, noting that \u201cthere is a lot of uncertainty around how the company is planning to position itself against competitors like Netflix and whether it will be able to compete.\u201d\nSome investors, the analyst said, are confused by the company\u2019s intention to keep Discovery+ running as a stand-alone, even as it seeks to increase prices at HBO Max by adding Discovery+ content. For his part, Zaslav said research showed that a number of customers were happy with a solo Discovery+ and the company saw no reason to leave any subscriber behind,\nThe executive also showed a defiant streak, doubling down on a strategy at CNN that has generated lots of outside scrutiny. In recent weeks, CNN has set in motion plans to overhaul the bulk of its daily schedule, but early efforts have not resulted in ratings upticks. \u201cWe must get it right\u201d at CNN, Zaslav said, adding that \u201cthis is not going to happen overnight.\u201d He also suggested Warner would once again double down on demanding high rate hikes at the industry\u2019s annual ad-sales upfront in weeks to come \u2014 even though that strategy generated pushback from Madison Avenue last year.\nHe made his new vows after turning in tough results. Warner Bros. Discovery had a fourth-quarter loss of more than $2 billion, with advertising sales at its U.S. TV networks down 14%. Zaslav and Wiedenfels predicted the sector\u2019s operating environment would improve in the second half of the year, and gave investors something to anticipate with the promise of an unveil of a new HBO Max with Discovery content in April.\nNow, all he has to hope for is a better economy and for rivals who won\u2019t be able to compete as strongly in the days ahead. It\u2019s not clear that Zaslav will be granted either wish immediately. Even so, he told the audience, \u201cWe are not managing this company for short-term financial performance,\u201d but rather for decades to come. But with the pace of change in media, Zaslav will have to back up that bold talk sooner rather than later.",
+    "relationships": [
+        {
+            "entity_1": "Warner Bros. Discovery",
+            "relationship": "owner of",
+            "entity_2": "CNN",
+            "passage": "\"In recent weeks, CNN has set in motion plans to overhaul the bulk of its daily schedule\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Warner Bros. Discovery",
+            "relationship": "competitor",
+            "entity_2": "Netflix",
+            "passage": "\"Zaslav elbowed Netflix for releasing all of the episodes for a program\u2019s cycle all at once\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Warner Bros. Discovery",
+            "relationship": "competitor",
+            "entity_2": "Amazon",
+            "passage": "\"Suggested that a move to launch new \u201cLord of the Rings\u201d movies would take away some of the momentum that Amazon had enjoyed from its launch of a series based on the novels\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Fox Corp.",
+            "relationship": "owner of",
+            "entity_2": "Tubi",
+            "passage": "\"Warner Bros. Discovery could launch an ad-supported streaming service without having to buy an outside asset, as Fox Corp. and Paramount Global have done in recent year.\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Paramount Global",
+            "relationship": "owner of",
+            "entity_2": "Pluto",
+            "passage": "\"Warner Bros. Discovery could launch an ad-supported streaming service without having to buy an outside asset, as Fox Corp. and Paramount Global have done in recent year.\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}

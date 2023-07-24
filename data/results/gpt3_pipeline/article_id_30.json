@@ -1,0 +1,35 @@
+{
+    "article_id": 30,
+    "url": "https://apnews.com/article/boeing-co-federal-aviation-administration-business-eeacab066d2d48e02399ff63fecb408a",
+    "title": "Boeing stops deliveries of jet on questions surrounding part",
+    "text": "FILE - The Boeing 787 Dreamliner after its landing at Le Bourget airport, east of Paris, upon its presentation for the first time at the 49th Paris Air Show at the airport, June 21, 2011. Boeing has again stopped deliveries of its 787 passenger jet because of questions around a supplier\u2019s analysis of a part near the front of the plane, company and federal officials said Thursday, Feb. 23, 2023. (AP Photo/Francois Mori, File)\nFILE - The Boeing 787 Dreamliner after its landing at Le Bourget airport, east of Paris, upon its presentation for the first time at the 49th Paris Air Show at the airport, June 21, 2011. Boeing has again stopped deliveries of its 787 passenger jet because of questions around a supplier\u2019s analysis of a part near the front of the plane, company and federal officials said Thursday, Feb. 23, 2023. (AP Photo/Francois Mori, File)\nBoeing has again stopped deliveries of its 787 passenger jet because of questions around a supplier\u2019s analysis of a part near the front of the plane, company and federal officials said Thursday.\nBoeing said the issue does not raise an immediate safety issue for planes already in service. The Federal Aviation Administration was more cautious, saying it is working with Boeing to determine what fixes might be needed for planes recently delivered to airlines.\nThe discovery is the latest setback involving the two-aisle plane, which Boeing calls the Dreamliner and is mostly used on international routes. Deliveries were stopped for more than a year, until August 2022 , while Boeing fixed production flaws including the fit of panels on the carbon-composite skin.\n\u201cBoeing temporarily halted deliveries of 787 Dreamliners after notifying the FAA that it is conducting additional analysis on a fuselage component,\u201d the FAA said in a statement Thursday. \u201cDeliveries will not resume until the FAA is satisfied that the issue has been addressed.\u201d\nA Boeing spokesperson said the company based in Arlington, Virginia, \u201cdiscovered an analysis error by our supplier related to the 787 forward pressure bulkhead,\u201d a part that separates the nose of the plane from the pressurized cabin. Boeing did not name the supplier.\n\u201cThere is no immediate safety of flight concern for the in-service fleet,\u201d the company said.\nBoeing said near-term deliveries will be affected but it doesn\u2019t expect it will change the company\u2019s forecast of deliveries for this year.",
+    "relationships": [
+        {
+            "entity_1": "Boeing",
+            "relationship": "developer of",
+            "entity_2": "787 Dreamliner",
+            "passage": "\"Boeing has again stopped deliveries of its 787 passenger jet\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "FAA",
+            "relationship": "partner of",
+            "entity_2": "Boeing",
+            "passage": "\"The Federal Aviation Administration was more cautious, saying it is working with Boeing to determine what fixes might be needed for planes recently delivered to airlines\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Boeing",
+            "relationship": "owner of",
+            "entity_2": "Arlington",
+            "passage": "\"Boeing based in Arlington, Virginia\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "article_id": 3,
+    "url": "https://edition.cnn.com/2023/02/23/tech/china-apps-remove-chatgpt-ai-race-intl-hnk",
+    "title": "ChatGPT: Chinese apps remove chatbot as global AI race heats up",
+    "text": "Hong Kong CNN \u2014\nSeveral popular Chinese apps have removed access to ChatGPT, the artificial intelligence chatbot that has taken the world by storm even as major Chinese tech companies race to develop their own equivalent.\nChatGPT, developed by the American research lab OpenAI, is not officially available in China, but several apps on the Chinese social media platform WeChat had previously allowed access to the chatbot without the use of a VPN or foreign mobile number.\nThose doors now appear shut. Earlier this week, the apps ChatGPTRobot and AIGC Chat Robot said their programs had been suspended due to \u201cviolation of relevant laws and regulations,\u201d without specifying which laws.\nTwo other apps, ChatgptAiAi and Chat AI Conversation, said their ChatGPT services went offline due to \u201crelevant business changes\u201d and policy changes.\nThe app Shenlan BL was even more vague, citing \u201cvarious reasons\u201d for the shutdown.\nThough it\u2019s unclear what prompted these closures, there are other signs China may be souring on ChatGPT. On Monday, state-run media released a video claiming the chatbot could be used by US authorities to \u201cspread disinformation and manipulate public opinion,\u201d pointing to its responses regarding Xinjiang as supposed evidence of bias.\nWhen prompted on Xinjiang, ChatGPT describes the Chinese government\u2019s alleged human rights abuses against ethnic minorities in the far western region, including mass detentions and forced labor. Beijing has repeatedly denied these accusations, claiming detention camps are \u201cvocational education and training centers\u201d that have since been dismantled.\nOther recent state media articles have voiced criticism and skepticism toward ChatGPT, with China Daily declaring that its rise highlights the need for \u201cstrict regulations.\u201d\nSeveral Chinese tech companies saw their shares drop on Thursday after news spread that WeChat apps had removed ChatGPT services. Beijing Haitian Ruisheng Science Technology, which develops and produces AI data products, closed 8.4% lower.\nMeanwhile, Hanwang Technology and Beijing Deep Glint Technology, both developers of AI products and services, closed 10% and 5.5% lower respectively.\nGlobal AI race\nChatGPT burst onto the scene in December, quickly going viral thanks to its ability to provide lengthy, thorough \u2014 though sometimes inaccurate \u2014 responses to questions and prompts.\nSince its release, the tool has been used to write articles for at least one news publication, drafted research paper abstracts that fooled some scientists and even passed graduate-level law and business exams (albeit with low marks).\nIt has also prompted alarm about its unknown long-term consequences, such as its impact on education and students\u2019 ability to cheat on assignments.\nDespite these concerns, the success of ChatGPT has spurred a global AI race.\nMicrosoft plans to invest billions in the San Francisco-based OpenAI and unveiled its AI-powered Bing chatbot last week, though it made headlines for veering into darker, sometimes disturbing conversation. Earlier this month, Google announced it will soon roll out Bard, its own answer to ChatGPT.\nChina\u2019s government has previously sought to restrict major Western websites and apps, such as Google, Facebook and Amazon, leading to accusations from some of digital protectionism.\nIn the absence of foreign competition within the domestic market, Chinese tech companies have since grown into major international players \u2014 many of which are now revving their gears with an eye toward AI.\nIn early February, Chinese behemoth Alibaba said it was testing its own ChatGPT-style tool, though it didn\u2019t provide details on when it would launch.\nA team at China\u2019s Fudan University developed their own version called MOSS, which instantly went viral, causing the platform to crash this week due to too many users.\nAnd on Wednesday, tech giant Baidu said its AI chatbot ERNIE Bot, slated for a March release, will be used across various platforms such as its search engine, voice assistant for smart devices and even its autonomous driving technology.\nThe rollout will \u201ccreate a new entry point for the next-generation internet,\u201d Baidu CEO Robin Li said in an earnings call, adding that the company expects \u201cmore and more business owners and entrepreneurs to build their own models and applications on our AI Cloud.\u201d",
+    "relationships": [
+        {
+            "entity_1": "OpenAI",
+            "relationship": "developer of",
+            "entity_2": "ChatGPT",
+            "passage": "\"ChatGPT, developed by the American research lab OpenAI\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Microsoft",
+            "relationship": "investor in",
+            "entity_2": "OpenAI",
+            "passage": "\"Microsoft plans to invest billions in the San Francisco-based OpenAI\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Google",
+            "relationship": "competitor",
+            "entity_2": "OpenAI",
+            "passage": "\"Google announced it will soon roll out Bard, its own answer to ChatGPT\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Alibaba",
+            "relationship": "competitor",
+            "entity_2": "OpenAI",
+            "passage": "\"Chinese behemoth Alibaba said it was testing its own ChatGPT-style tool\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Fudan University",
+            "relationship": "developer of",
+            "entity_2": "MOSS",
+            "passage": "\"A team at China\u2019s Fudan University developed their own version called MOSS\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Baidu",
+            "relationship": "competitor",
+            "entity_2": "OpenAI",
+            "passage": "\"tech giant Baidu said its AI chatbot ERNIE Bot, slated for a March release\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}

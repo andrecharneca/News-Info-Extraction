@@ -1,0 +1,35 @@
+{
+    "article_id": 27,
+    "url": "https://apnews.com/article/technology-science-baidu-inc-china-artificial-intelligence-427838070f962108cabed1e553fc3d12",
+    "title": "Baidu to implement ChatGPT-like Ernie Bot chatbot from March",
+    "text": "Robin Li, CEO of search giant Baidu, talks about AI during the Baidu Create 2018 held in Beijing, China, Wednesday, July 4, 2018. Baidu Inc., one of China\u2019s biggest search and artificial intelligence firms, said Wednesday, Feb. 22, 2023, it plans to implement its artificial intelligence chatbot Ernie into its search services from March. (AP Photo/Ng Han Guan)\nRobin Li, CEO of search giant Baidu, talks about AI during the Baidu Create 2018 held in Beijing, China, Wednesday, July 4, 2018. Baidu Inc., one of China\u2019s biggest search and artificial intelligence firms, said Wednesday, Feb. 22, 2023, it plans to implement its artificial intelligence chatbot Ernie into its search services from March. (AP Photo/Ng Han Guan)\nHONG KONG (AP) \u2014 Baidu Inc., one of China\u2019s biggest search and artificial intelligence firms, said Wednesday it plans to implement its artificial intelligence chatbot Ernie into its search services from March.\nBaidu, which is known for its search engine and autonomous driving technology, leads China\u2019s efforts to create an equivalent of OpenAI\u2019s ChatGPT chatbot. It said earlier this month that it will complete internal testing of Ernie Bot in March before making the service public.\nIn an internal memo, Baidu CEO Robin Li said that Ernie Bot will be integrated across all of Baidu\u2019s operations, including its search and cloud services. Baidu also plans to integrate Ernie into its smart car operating system and smart speaker.\nThe company\u2019s stock price in New York jumped nearly 7% in pre-market trading Wednesday to more than $150 a share.\n\u201cAI technology has reached a tipping point and all industries will inevitably go through transformation,\u201d Li said in the memo.\n\u201cBaidu stands as the best example of the long-term growth of China\u2019s AI market and is advancing at the forefront of this new wave,\u201d he said.\nThe company also announced a $5 billion share buyback on Wednesday.\nBaidu reported revenues of 33.1 billion yuan ($4.8 billion) for the quarter that ended in December, about level with the same period of 2021.\nMost of Baidu\u2019s revenue comes from its online marketing services, which generated 18.1 billion yuan ($2.62 billion) in sales in the last quarter.\nIts Apollo Go autonomous ride-hailing services provided 561,000 rides in the fourth quarter, up 162% from a year earlier.\nAfter years of regulatory scrutiny following a crackdown on the technology sector and a sluggish economy battered by COVID-19, companies like Baidu look likely to invest more as China looks to the industry to revive the economy.",
+    "relationships": [
+        {
+            "entity_1": "Baidu",
+            "relationship": "developer of",
+            "entity_2": "Ernie Bot",
+            "passage": "\"Baidu, which is known for its search engine and autonomous driving technology, leads China\u2019s efforts to create an equivalent of OpenAI\u2019s ChatGPT chatbot. It said earlier this month that it will complete internal testing of Ernie Bot in March before making the service public.\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "OpenAI",
+            "relationship": "developer of",
+            "entity_2": "ChatGPT",
+            "passage": "\"Baidu, which is known for its search engine and autonomous driving technology, leads China\u2019s efforts to create an equivalent of OpenAI\u2019s ChatGPT chatbot.\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Baidu",
+            "relationship": "competitor",
+            "entity_2": "OpenAI",
+            "passage": "\"Baidu, which is known for its search engine and autonomous driving technology, leads China\u2019s efforts to create an equivalent of OpenAI\u2019s ChatGPT chatbot.\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}

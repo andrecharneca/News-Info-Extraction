@@ -1,0 +1,163 @@
+{
+    "url": "https://europe.autonews.com/automakers/musks-challenge-keeping-tesla-ahead-competition",
+    "article_id": 41,
+    "title": "Musk's challenge for Tesla is to stay ahead of the competition",
+    "text": "DETROIT -- Elon Musk will confront a critical challenge during Tesla's Investor Day on March 1. He must convince investors that even though rivals are catching up, the electric-vehicle pioneer can make another leap forward to widen its lead.\nTesla was the No. 1 EV maker worldwide in 2022, but China's BYD and others are closing the gap fast, according to a Reuters analysis of global and regional EV sales data provided by EV-volumes.com.\nIn fact, BYD passed Tesla in EV sales last year in the Asia-Pacific region, while the Volkswagen Group has been the EV leader in Europe since 2020.\nWhile Tesla narrowed VW's lead in Europe, the U.S. automaker surrendered ground in Asia-Pacific as well as its home market as the competition heats up.\nThe most significant challenges to Tesla are coming from established automakers and a group of Chinese EV manufacturers.\nSeveral U.S. EV startups that hoped to ride Tesla's coattails are struggling, including luxury EV maker Lucid, whose shares plunged 16 percent on Thursday after disappointing sales and financial results.\nOver the next two years, rivals including General Motors, Ford, Mercedes-Benz, Hyundai and VW will launch scores of new electric vehicles, from a Chevrolet priced below $30,000 to luxury sedans and SUVs that top $100,000.\nOn Wednesday, Mercedes used Silicon Valley as the backdrop for a lengthy presentation on how Mercedes models of the near-future will immerse their owners in rich streams of entertainment and productivity content, delivered through \"hyperscreens\" that stretch across the dashboard and make the rectangular screens in Teslas look quaint.\nExecutives also emphasized that only Mercedes has an advanced, Level 3 partially automated driving system approved for use in Germany, with approval pending in California.\nIn China, Tesla has had to cut prices on its best-selling models under growing pressure from domestic Chinese manufacturers including BYD, Geely Automobile's Zeekr brand and Nio.\nChina's EV makers could get another boost if Chinese battery maker CATL follows through on plans to heavily discount batteries used in their vehicles.\nHoly grail\nMusk has said he will use the March 1 event to outline his \"Master Plan Part 3\" for Tesla.\nIn the nearly seven years since Musk published his \"Master Plan Part Deux\" in July 2016, Tesla pulled ahead of established automakers and EV startups in most important areas of EV design, digital features and manufacturing.\nTesla's vehicles offered features, such as the ability to navigate into a parking space or make rude sounds, that other vehicles lacked.\nTesla's then-novel vertically integrated battery and vehicle production machine helped achieve higher profit margins than most established automakers - even as bigger rivals lost money on their EVs.\nFast-forward to today and Tesla's \"Full Self Driving Beta\" automated driving is still classified by the company and federal regulators as a \"Level 2\" driver assistance system that requires the human motorist to be ready to take control at all times. Such systems are common in the industry.\nTesla earlier this month was compelled by federal regulators to revise its FSD software under a recall order.\nTesla has established a wide lead over its rivals in manufacturing technology - an area where it was struggling when Musk put forward the last installment of his \"Master Plan.\"\nNow, rivals are copying the company's production technology, buying some of the same equipment Tesla uses.\nIDRA, the Italian company that builds huge presses to form large one-piece castings that are the building blocks of Tesla vehicles, said it is now getting orders from other automakers.\nMusk has told investors that Tesla can keep its lead in EV manufacturing costs. The company has promised investors that on March 1 they \"will be able to see our most advanced production line\" in Austin, Texas.\n\"Manufacturing technology will be our most important long-term strength,\u201d Musk told analysts in January. Asked if Tesla could make money on a vehicle that sold in the U.S. for $25,000 to $30,000 - the EV industry's Holy Grail - Musk was coy.\n\"I would probably be asking the same question,\" he said. \"But we would be jumping the gun on future announcements.\"",
+    "relationships": [
+        {
+            "entity_1": "Tesla",
+            "relationship": "competitor",
+            "entity_2": "BYD",
+            "passage": "BYD passed Tesla in EV sales last year in the Asia-Pacific region"
+        },
+        {
+            "entity_1": "Tesla",
+            "relationship": "competitor",
+            "entity_2": "Volkswagen Group",
+            "passage": "BYD passed Tesla in EV sales last year in the Asia-Pacific region, while the Volkswagen Group"
+        },
+        {
+            "entity_1": "Volkswagen Group",
+            "relationship": "competitor",
+            "entity_2": "BYD",
+            "passage": "BYD passed Tesla in EV sales last year in the Asia-Pacific region, while the Volkswagen Group"
+        },
+        {
+            "entity_1": "Lucid",
+            "relationship": "competitor",
+            "entity_2": "Tesla",
+            "passage": "Several U.S. EV startups that hoped to ride Tesla's coattails are struggling, including luxury EV maker Lucid"
+        },
+        {
+            "entity_1": "Tesla",
+            "relationship": "competitor",
+            "entity_2": "General Motors",
+            "passage": "Over the next two years, rivals including General Motors"
+        },
+        {
+            "entity_1": "Tesla",
+            "relationship": "competitor",
+            "entity_2": "Ford",
+            "passage": "Over the next two years, rivals including General Motors, Ford"
+        },
+        {
+            "entity_1": "Tesla",
+            "relationship": "competitor",
+            "entity_2": "Mercedes",
+            "passage": "Over the next two years, rivals including General Motors, Ford, Mercedes-Benz"
+        },
+        {
+            "entity_1": "Tesla",
+            "relationship": "competitor",
+            "entity_2": "Hyundai",
+            "passage": "Over the next two years, rivals including General Motors, Ford, Mercedes-Benz, Hyundai"
+        },
+        {
+            "entity_1": "Tesla",
+            "relationship": "developer of",
+            "entity_2": "Full Self Driving Beta",
+            "passage": "Tesla's \"Full Self Driving Beta\" automated driving"
+        },
+        {
+            "entity_1": "IDRA",
+            "relationship": "partner of",
+            "entity_2": "Tesla",
+            "passage": "IDRA, the Italian company that builds huge presses to form large one-piece castings that are the building blocks of Tesla vehicles"
+        },
+        {
+            "entity_1": "Tesla",
+            "relationship": "competitor",
+            "entity_2": "Geely Automobile",
+            "passage": "Tesla has had to cut prices on its best-selling models under growing pressure from domestic Chinese manufacturers including BYD, Geely Automobile's Zeekr brand and Nio"
+        },
+        {
+            "entity_1": "Tesla",
+            "relationship": "competitor",
+            "entity_2": "Nio",
+            "passage": "Tesla has had to cut prices on its best-selling models under growing pressure from domestic Chinese manufacturers including BYD, Geely Automobile's Zeekr brand and Nio"
+        },
+        {
+            "entity_1": "Tesla",
+            "relationship": "competitor",
+            "entity_2": "Zeekr",
+            "passage": "Tesla has had to cut prices on its best-selling models under growing pressure from domestic Chinese manufacturers including BYD, Geely Automobile's Zeekr brand and Nio"
+        },
+        {
+            "entity_1": "Geely Automobile",
+            "relationship": "owner of",
+            "entity_2": "Zeekr",
+            "passage": "Geely Automobile's Zeekr brand"
+        },
+        {
+            "entity_1": "CATL",
+            "relationship": "partner of",
+            "entity_2": "Geely Automobile",
+            "passage": "BYD, Geely Automobile's Zeekr brand and Nio.\nChina's EV makers could get another boost if Chinese battery maker CATL follows through on plans to heavily discount batteries used in their vehicles."
+        },
+        {
+            "entity_1": "CATL",
+            "relationship": "partner of",
+            "entity_2": "Nio",
+            "passage": "BYD, Geely Automobile's Zeekr brand and Nio.\nChina's EV makers could get another boost if Chinese battery maker CATL follows through on plans to heavily discount batteries used in their vehicles."
+        },
+        {
+            "entity_1": "CATL",
+            "relationship": "partner of",
+            "entity_2": "Zeekr",
+            "passage": "BYD, Geely Automobile's Zeekr brand and Nio.\nChina's EV makers could get another boost if Chinese battery maker CATL follows through on plans to heavily discount batteries used in their vehicles."
+        },
+        {
+            "entity_1": "BYD",
+            "relationship": "partner of",
+            "entity_2": "CATL",
+            "passage": "BYD, Geely Automobile's Zeekr brand and Nio.\nChina's EV makers could get another boost if Chinese battery maker CATL follows through on plans to heavily discount batteries used in their vehicles."
+        }
+    ],
+    "entities": [
+        {
+            "word": "Tesla"
+        },
+        {
+            "word": "BYD"
+        },
+        {
+            "word": "Volkswagen Group"
+        },
+        {
+            "word": "Lucid"
+        },
+        {
+            "word": "General Motors"
+        },
+        {
+            "word": "Ford"
+        },
+        {
+            "word": "Mercedes"
+        },
+        {
+            "word": "Hyundai"
+        },
+        {
+            "word": "Chevrolet"
+        },
+        {
+            "word": "Geely Automobile"
+        },
+        {
+            "word": "Zeekr"
+        },
+        {
+            "word": "Nio"
+        },
+        {
+            "word": "CATL"
+        },
+        {
+            "word": "Full Self Driving Beta"
+        },
+        {
+            "word": "IDRA"
+        }
+    ]
+}

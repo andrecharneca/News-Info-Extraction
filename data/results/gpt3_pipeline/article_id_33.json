@@ -1,0 +1,35 @@
+{
+    "article_id": 33,
+    "url": "https://www.cnbc.com/2023/01/24/qatar-doubles-credit-suisse-stake.html",
+    "title": "Qatar doubles Credit Suisse stake as embattled lender forges ahead with strategic overhaul",
+    "text": "The Qatar Investment Authority is the second-largest shareholder in Credit Suisse after doubling its stake in the embattled Swiss lender late last year, according to a filing with the U.S. Securities and Exchange Commission.\nThe QIA \u2014 Qatar's sovereign wealth fund \u2014 initially began investing in Credit Suisse around the time of the financial crisis. Now, it owns 6.8% of the bank's shares, according to the filing Friday, second only to the 9.9% stake purchased by the Saudi National Bank last year as part of a $4.2 billion capital raise to fund a massive strategic overhaul.\nCombined with the 3.15% owned by Saudi-based family firm Olayan Financing Company, around a fifth of the company's stock is now owned by Middle Eastern investors, Eikon data indicates.\nCredit Suisse will report its fourth-quarter and full-year earnings on Feb. 9, and has already projected a 1.5 billion Swiss franc ($1.6 billion) loss for the fourth quarter as a result of the ongoing restructuring. The shake-up is designed to address persistent underperformance in the investment bank and a series of risk and compliance failures.\nCEO Ulrich Koerner told CNBC at the World Economic Forum in Davos last week that the bank is making progress on the transformation and has seen a notable reduction in client outflows.",
+    "relationships": [
+        {
+            "entity_1": "Qatar Investment Authority",
+            "relationship": "owner of",
+            "entity_2": "Credit Suisse",
+            "passage": "\"The Qatar Investment Authority is the second-largest shareholder in Credit Suisse after doubling its stake in the embattled Swiss lender late last year\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Saudi National Bank",
+            "relationship": "owner of",
+            "entity_2": "Credit Suisse",
+            "passage": "\"The Saudi National Bank last year as part of a $4.2 billion capital raise to fund a massive strategic overhaul\"",
+            "paragraph_ids": [
+                0
+            ]
+        },
+        {
+            "entity_1": "Olayan Financing Company",
+            "relationship": "owner of",
+            "entity_2": "Credit Suisse",
+            "passage": "\"Olayan Financing Company, around a fifth of the company's stock is now owned by Middle Eastern investors\"",
+            "paragraph_ids": [
+                0
+            ]
+        }
+    ]
+}
