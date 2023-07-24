@@ -2,11 +2,11 @@
 
 In this project, we explore 2 approaches for extracting business relations between companies and products:
 - An LLM-based method using GPT-3 with a few-shot prompt.
-- A PLM-based method, using a pipeline including NER and NLI models.
+- A PLM (Pre-trained Language Models)-based method, using a pipeline including NER and NLI models.
 
 We compare the performance of the 2 approaches against a manual dataset of 54 news articles from February 2023, yielding over 250 relations and 200 entities.
 
-Project developed by André Charneca during an internship at CYD Lausanne in 2023, supervised by Ljiljana Dolamic and in collaboration with Angelika Romanou.
+Project developed by André Charneca during an internship at CYD Lausanne in 2023, supervised by Ljiljana Dolamic and Angelika Romanou.
 
 
 ## Visuals
@@ -34,14 +34,13 @@ Project developed by André Charneca during an internship at CYD Lausanne in 202
 
 
 ## Getting Started
-To add your files to this project
-
+Prepare to run scripts by doing the following:
 ```
-cd existing_repo
-git remote add origin https://proj-gitlab.lambda.armasuisse.ch/data-science/news-articles-info-extraction.git
-git branch -M main
-git push -uf origin main
+git clone https://github.com/andrecharneca/News-Info-Extraction.git
+cd News-Info-Extraction
+pip install -r requirements.txt
 ```
+Note: the GPT-3 pipeline uses the environment variable `OPENAI_API_KEY`.
 
 ## Usage
 The main scripts in the folder `code/scripts` are:
