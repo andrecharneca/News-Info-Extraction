@@ -29,7 +29,7 @@ Project developed by André Charneca during an internship at CYD Lausanne in 202
 
 <div style="text-align:center">
     <img src="docs/figures/relation_extraction_pipeline.png" alt="GPT Pipeline" style="max-width: 70%;">
-    <p>GPT-3 Pipeline: relation extraction</p>
+    <p>PLM Pipeline: relation extraction</p>
 </div>
 
 
